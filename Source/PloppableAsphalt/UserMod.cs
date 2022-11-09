@@ -1,10 +1,6 @@
 namespace PloppableAsphalt
 {
-    using System.Diagnostics.CodeAnalysis;
-    using ICities;
-    using JetBrains.Annotations;
-    using PloppableAsphalt.Manager;
-    using UnityEngine;
+
 
     // Remember to check the folders in Solution > Infrastructure > Directory.Build.props before building --->
 
