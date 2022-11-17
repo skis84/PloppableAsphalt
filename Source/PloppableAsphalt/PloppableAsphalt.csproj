@@ -20,6 +20,11 @@
   </PropertyGroup>
 
   <!-- Code analysers -->
+
+
+
+
+
   <ItemGroup>
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.0.0" />
    <PackageReference Include="Roslynator.CodeAnalysis.Analyzers" Version="1.0.0-beta" />
