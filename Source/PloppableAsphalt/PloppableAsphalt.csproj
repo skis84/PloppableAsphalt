@@ -26,12 +26,6 @@
     <PackageReference Include="Unofficial.Microsoft.Unity.Analyzers" Version="1.0.0" />
     <PackageReference Include="log4net" Version="1.2.10" />
 
-
-
-
-
-
-
   </ItemGroup>
 
   <!-- Managed dll references -->
