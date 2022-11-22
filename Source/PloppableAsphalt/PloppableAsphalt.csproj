@@ -27,6 +27,12 @@
     <PackageReference Include="log4net" Version="1.2.10" />
 
 
+
+
+
+
+
+
   </ItemGroup>
 
   <!-- Managed dll references -->
