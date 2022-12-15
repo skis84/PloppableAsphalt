@@ -32,11 +32,6 @@
   <ItemGroup>
 
 
-
-
-
-
-
     <Reference Include="Assembly-CSharp" />
     <Reference Include="ColossalManaged" />
     <Reference Include="ICities" />
