@@ -20,13 +20,7 @@
   </PropertyGroup>
 
   <!-- Code analysers -->
-  <ItemGroup>
-
-    
-    
-    
-    
-    
+  <ItemGroup>    
     
 <PackageReference Include="Microsoft.VisualStudio.ComponentModelHost" Version="14.0.25424" />
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.0.0" />
