@@ -27,6 +27,10 @@
     
     
     
+    
+    
+    
+    
 <PackageReference Include="Microsoft.VisualStudio.ComponentModelHost" Version="14.0.25424" />
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.0.0" />
    <PackageReference Include="Roslynator.CodeAnalysis.Analyzers" Version="1.0.0-beta" />
