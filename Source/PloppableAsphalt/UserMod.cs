@@ -1,11 +1,6 @@
 namespace PloppableAsphalt
 {
     
-  
-    
-    
-    
-    
  
     
     // Remember to check the folders in Solution > Infrastructure > Directory.Build.props before building --->
