@@ -1,7 +1,5 @@
 namespace PloppableAsphalt.Manager
 {
-    using System.Collections.Generic;
-    using System.Diagnostics;
 
     /// <summary>
     /// Manages the everything relating to ploppable asphalt props while in-game.
