@@ -2,11 +2,6 @@ namespace PloppableAsphalt.Manager
 {
     using System.Collections.Generic;
     using System.Diagnostics;
-    using System.Diagnostics.CodeAnalysis;
-    using ColossalFramework.UI;
-    using JetBrains.Annotations;
-    using UnityEngine;
-    using Debug = UnityEngine.Debug;
 
     /// <summary>
     /// Manages the everything relating to ploppable asphalt props while in-game.
