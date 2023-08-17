@@ -22,7 +22,7 @@
   <!-- Code analysers ... -->
   <ItemGroup>
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.0.0" />
-    <PackageReference Include="Roslynator.Analyzers" Version="2.3.0" />
+    
 
 
 
