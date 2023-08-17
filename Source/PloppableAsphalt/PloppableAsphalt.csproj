@@ -27,8 +27,6 @@
    
   <PackageReference Include="Google.Protobuf" />
     <PackageReference Include="System.Runtime.CompilerServices.Unsafe" />
-
-
     
     
   </ItemGroup>
