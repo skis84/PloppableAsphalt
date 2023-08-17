@@ -23,8 +23,8 @@
   <ItemGroup>
   
     
-
-
+<PackageReference Include="System.Memory" />
+   
 
     <PackageReference Include="System.Runtime.CompilerServices.Unsafe" />
 
