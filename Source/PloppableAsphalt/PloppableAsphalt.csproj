@@ -23,7 +23,7 @@
   <ItemGroup>
   
 
-   
+   <PackageReference Include="System.Memory" />
   <PackageReference Include="Google.Protobuf" />
 
     
