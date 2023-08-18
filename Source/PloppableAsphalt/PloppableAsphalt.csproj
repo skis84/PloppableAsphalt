@@ -24,9 +24,7 @@
   
 
    <PackageReference Include="System.Memory" />
-
-
-    <PackageReference Include"Google.Protobuf" />
+   <PackageReference Include="Google.Protobuf" />
     
   </ItemGroup>
 
