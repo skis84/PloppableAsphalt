@@ -1,11 +1,6 @@
 namespace PloppableAsphalt.SettingsUI
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Diagnostics.CodeAnalysis;
-    using ColossalFramework.UI;
-    using ICities;
-    using UnityEngine;
+
 
     /// <summary>
     /// <para>Creates RGB sliders for the Settings UI.</para>
