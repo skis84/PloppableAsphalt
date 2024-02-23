@@ -3,6 +3,8 @@ namespace PloppableAsphalt.SettingsUI
     /// <summary>
     /// IDs for the RGB sliders.
     /// </summary>
+    // TODO
+    // FIXME
     public enum SliderID
     {
         /// <summary>
