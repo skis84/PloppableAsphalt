@@ -3,6 +3,7 @@ namespace PloppableAsphalt.SettingsUI
 
 
     /// <summary>
+    // TODO
     /// <para>Creates RGB sliders for the Settings UI.</para>
     /// <para>Invokes <c>colorChangeHandler</c> action when user changes color.</para>
     /// </summary>
